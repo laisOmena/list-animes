@@ -1,0 +1,135 @@
+html {
+    background-color: #f6f6f6;
+}
+
+main {
+    width: 955px;
+    margin: -1px auto 10px;
+    border: 1px solid #ddd;
+    background-color: #FFF;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    width: 955px;
+    height: 250px
+}
+
+nav {
+    width: 955px;
+    background-color: #000;
+    padding: 0px 0px;
+}
+
+nav section {
+    margin: 0px;
+    display: inline-block;
+    padding: 2px;
+    margin-left: 1px;
+    margin-bottom: -4px;
+}
+
+nav section .botao {
+
+    background-color: #000;
+    margin-bottom: 5px;
+    padding: 5px 15px;
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: -2px;
+
+}
+
+nav section .botao:hover {
+    background-color: #999999
+}
+
+.img-one {
+
+    float: left;
+    margin-right: 10px;
+    border: 2px solid #666666
+}
+
+.img-hunter {
+    float: left;
+    margin-right: 10px;
+    border: 2px solid #000;
+
+}
+
+
+.img-soma {
+
+    float: left;
+    margin-right: 10px;
+    border: 2px solid #000;
+    margin-top: 10px
+}
+
+.img-magi {
+
+    float: left;
+    margin-right: 10px;
+    border: 2px solid #999999;
+}
+
+.yona {
+
+    float: left;
+    margin-right: 10px;
+    border: 1px solid red;
+    margin-top: 10px;
+}
+
+p, ul {
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 1.2;
+    margin-right: 20px;
+    padding: 1px;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    clear: left;
+    margin-left: 5px;
+}
+
+ul{
+    list-style: none;
+    line-height: 2;
+}
+
+ol {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    clear: left;
+    margin-left: 5px;
+}
+
+.botao {
+    display: inline-block;
+    background-color: #000;
+    margin-bottom: 1px;
+    padding: 5px 15px;
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: -2px;
+    text-align: center;
+}
+
+.botao:hover {
+    background-color: #999;
+}
+.conteudo{ 
+    float: left;
+    width: 100%;
+}
