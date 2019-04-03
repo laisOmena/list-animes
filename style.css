@@ -115,6 +115,9 @@ ol {
     clear: left;
     margin-left: 5px;
 }
+img {
+    max-width: 100%;
+}
 
 .botao {
     display: inline-block;
